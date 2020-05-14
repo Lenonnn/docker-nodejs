@@ -1,0 +1,3 @@
+Instala dependencias e cria Imagem docker
+
+docker build -t lenondev/dockernode .
