@@ -1,2 +1,5 @@
-### Link do video do canal da rocktseat no youtube para esse app
-https://www.youtube.com/watch?v=AVNADGzXrrQ
+# Aplicação usando DOCKER
+
+### Link do video no [YouTube](https://www.youtube.com/watch?v=AVNADGzXrrQ).
+### Feito pela [Rocktseat](https://rocketseat.com.br/)
+
